@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/giz-logo.svg" width="280" alt="GIZ"/>
+<img src="./assets/giz-logo-italic-white.png" width="320" alt="GIZ"/>
 
 <br/>
 
