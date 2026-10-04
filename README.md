@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=C8C8C8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=SysAdmin+%2F+SOC+%40+NOVENCI;Expert+Cybers%C3%A9curit%C3%A9+%40+Ynov;Artist+%2F+Producer+%E2%80%94+GIZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=C8C8C8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Artist+%2F+Producer+%E2%80%94+GIZ;Dev+%C2%B7+CybSec+%C2%B7+GameDev;%E2%98%85+i+build+cool+stuff+%E2%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,6 +17,6 @@
 
 <br/>
 
-<sub>⠀∧,,,∧ · ( ̳• · • ̳) · / づ♡ building cool stuff</sub>
+<sub>★ i build cool stuff ★</sub>
 
 </div>
