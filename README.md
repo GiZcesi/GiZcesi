@@ -7,6 +7,7 @@
 ### ✧･ﾟ: *✧･ﾟ:*  i build cool stuff  *:･ﾟ✧*:･ﾟ✧
 
 <br/>
+<a href="https://ko-fi.com/giz_music"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
 <a href="https://linktr.ee/giz_music"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
 <a href="https://www.instagram.com/giz_music/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://open.spotify.com/artist/0egqWPwkrksKfrk8oROTof"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
